@@ -1,0 +1,13 @@
+{"name" : "training",
+"License" : "MIT",
+"type" : "project",
+"description" : "A training application to manage collection",
+"autoload" : {
+  "psr-0" : { "" : "src/" }
+},
+  "require": {
+    "gabordemooij/redbean" : "v3.5.1"
+  }
+
+
+}
